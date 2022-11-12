@@ -8,7 +8,7 @@ import Loader from "../components/Loader";
 import Paginate from "../components/Paginate";
 import ProductCarousel from "../components/ProductCarousel";
 import Meta from "../components/Meta";
-import { listProducts } from "../actions/productActions";
+import { listProducts } from "../actions/ProductActions";
 import Footer from "../components/Footer"
 
 const HomeScreen = ({ match }) => {

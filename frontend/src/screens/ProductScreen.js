@@ -18,7 +18,7 @@ import Meta from "../components/Meta";
 import {
   listProductDetails,
   createProductReview,
-} from "../actions/productActions";
+} from "../actions/ProductActions";
 import { PRODUCT_CREATE_REVIEW_RESET } from "../constants/productConstants";
 import css from "../components/css/Nav.css";
 
